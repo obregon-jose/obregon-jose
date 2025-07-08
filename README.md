@@ -8,4 +8,5 @@ Tecnólogo en Desarrollo de Software con formacion en el desarrollo de APIs REST
 - Laravel
 - Ionic
 - MySQL
+- Next.js
 - Git / GitHub

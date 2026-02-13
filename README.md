@@ -4,7 +4,7 @@ Desarrollador de software junior con formacion en el desarrollo de APIs REST con
 
 🚀 Tecnologías que uso con frecuencia:
 - Laravel
-- Ionic
+- Python
 - MySQL
 - Next.js
 - Git / GitHub

@@ -7,4 +7,3 @@ Desarrollador de software junior con formacion en el desarrollo de APIs REST con
 - Python
 - MySQL
 - Next.js
-- Git / GitHub
